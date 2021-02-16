@@ -1,0 +1,16 @@
+br/com/osterloh/ControllerEstoque.java
+ br.com.osterloh.ControllerEstoque
+br/com/osterloh/ModelProduto.java
+ br.com.osterloh.ModelProduto
+br/com/osterloh/ModelFuncionario.java
+ br.com.osterloh.ModelFuncionario
+br/com/osterloh/ModelPessoa.java
+ br.com.osterloh.ModelPessoa
+br/com/osterloh/Estocar.java
+ br.com.osterloh.Estocar
+br/com/osterloh/Estoque.java
+ br.com.osterloh.Estoque
+br/com/osterloh/ControllerProduto.java
+ br.com.osterloh.ControllerProduto
+br/com/osterloh/ProgramaPrincipal.java
+ br.com.osterloh.ProgramaPrincipal
